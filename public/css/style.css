@@ -1,0 +1,27 @@
+/* /* body{
+    background-color: cyan;
+} */
+ 
+
+/* Navbar */ 
+.navbar{
+    height: 5 rem;
+    background-color: white;
+}
+
+.fa-compass{
+    color: #680c67;
+    font-size: 2rem;
+}
+.nav-link{
+    color: #222222 !important;
+}
+
+/* Footer */
+.f-info-links a{
+    text-decoration: none;
+    color: #222222
+}
+.f-info-links a :hover{
+    text-decoration: underline;
+}
